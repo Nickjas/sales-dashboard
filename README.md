@@ -9,10 +9,4 @@ Example contains four tabs: The first tab - is a general view - it allows to ass
 
 [<img src="https://github.com/Nickjas/sales-dashboard/blob/recolab/sales-dash.gif" alt="Sales Dashboard | AnyChart">](https://www.anychart.com/solutions/sales-dashboard-solution/)
 
-[<img src="https://github.com/Nickjas/sales-dashboard/blob/recolab/sale1.png" alt="Sales Dashboard | AnyChart">](https://www.anychart.com/solutions/sales-dashboard-solution/)
-
-[<img src="https://static.anychart.com/images/github/sales_dashboard_3.png" alt="Sales Dashboard | AnyChart">](https://www.anychart.com/solutions/sales-dashboard-solution/)
-
-[<img src="https://static.anychart.com/images/github/sales_dashboard_4.png" alt="Sales Dashboard | AnyChart">](https://www.anychart.com/solutions/sales-dashboard-solution/)
-
 
